@@ -7,8 +7,8 @@ Games list
 ==========
 
     Confirmed:
-      Multiplayer Pong (Multiplaer MinePong)
-      Pac-Man (Mine-Man)
+      Multiplayer Pong (Multiplayer MinePong)
+      Pac-Man (Miner-Man)
       
     Ideas:
       Flash Cards
